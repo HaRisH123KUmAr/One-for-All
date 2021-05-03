@@ -1,3 +1,2 @@
-# Team 23 - Red line
-# One-for-All
+#Simply_Book
 #E-books available for all standards
